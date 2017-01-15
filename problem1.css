@@ -1,0 +1,32 @@
+li{
+  line-height:1.5em;
+}
+
+.basket {
+  margin: 40px 30px;
+  border:3px solid slategray;
+  text-align: center;
+}
+
+.addWrap, .message {
+  margin-bottom:10px;
+}
+
+input {
+  width : 100px;
+}
+
+.message {
+  font-size:0.9em;
+  color:red;
+  font-family: monospace;
+  text-align: center;
+}
+
+.controller {
+  text-align: center; 
+}
+
+.add{
+	width: 54px
+}
